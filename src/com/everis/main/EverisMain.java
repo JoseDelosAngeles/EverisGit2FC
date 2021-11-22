@@ -1,7 +1,7 @@
 package com.everis.main;
 
 /**
- * FormaciÛn - GIT
+ * FormaciÔøΩn - GIT
  * 
  * @author Everis
  *
@@ -9,7 +9,7 @@ package com.everis.main;
 public class EverisMain {
 
 	/**
-	 * MÈtodo principal.
+	 * MÔøΩtodo principal.
 	 * 
 	 * @param args
 	 */
@@ -18,6 +18,7 @@ public class EverisMain {
 		System.out.println("Hola a tod@s");
 		
 		/* INTRODUCIR NUEVOS SALUDOS */
+		System.out.println("Hola Mundo. Desarrollador: Jos√© Antonio de los √Ångeles Rodr√≠guez");
 
 	}
 
